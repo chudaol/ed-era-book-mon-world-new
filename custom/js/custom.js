@@ -12,7 +12,7 @@ $(document).ready(function () {
     }, 100)
 
     _hcwp = window._hcwp || [];
-    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 76382});
+    _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
     (function() {
       HC_LOAD_INIT = true;
       var lang = "uk";
@@ -65,3 +65,5 @@ $(document).ready(function () {
     gitbook.events.bind("page.change", init)
   });
 });
+
+/* Hypercomment */
