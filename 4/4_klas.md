@@ -2,13 +2,13 @@
 
 4 клас
 =============================================
-## <i>35 годин</i>
+## *34 години*
 
 <p><b>Зміст розділу:</b></p>
-* [Людина](lyduna.md)
-* [Людина серед людей](lyduna_s.md)
-* [Людина в суспільстві](lyduna_v_susp.md)
-* [Людина і світ](lyduna_i_svit.md)
+* [Я – Людина](lyduna.md)
+* [Я та інші](lyduna_s.md)
+* [Я – українець](lyduna_v_susp.md)
+* [Я – європеєць](lyduna_i_svit.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
